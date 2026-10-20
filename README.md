@@ -50,6 +50,17 @@
   </tr>
 </table>
 
+<table dir="rtl">
+  <tr>
+    <td align="center" width="50%"><img src="screenshots/player.png" alt="الاستماع: بطاقة المشغّل مع الآية الحالية وحلقة التقدّم" width="190"></td>
+    <td align="center" width="50%"><img src="screenshots/tasmee.png" alt="التسميع: النص مخفي، ويظهر ما قرأتَه، والخطأ في حرف ملوَّن ومذكور في النتيجة" width="190"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>استمع</b><br><sub>النجمة: تابِع · استمع · سمِّع</sub></td>
+    <td align="center"><b>سمِّع</b><br><sub>من حفظك، والأخطاء كلمةً كلمة</sub></td>
+  </tr>
+</table>
+
 <div dir="rtl" lang="ar">
 
 ### 📖 اقرأ وافهم
@@ -58,15 +69,29 @@
 - **«لِمَاذَا هُنَا؟»:** الحكم، والحرف المؤثِّر والمتأثِّر، وسبب الحكم في هذا الموضع بالذات.
 - **إبراز أحكام مختارة:** اختر حكمًا أو أكثر، فيُبرَز وحده في النص، وتنقّل من موضع إلى موضع.
 - **أمثلة كل حكم:** أمثلة متنوعة مختارة، وجميع المواضع في السورة أو الجزء أو القرآن كله.
+- **التحليل التجويدي للآية:** تحليل الموضع، وشرح الحكم، والحالات الخاصة، والوقف والوصل، وكيفية الأداء، وشجرة
+  الأحكام — بمستوى مبسّط أو تفصيلي أو متقدم.
+- **البحث المتقدم في أحكام التجويد** <sub>(ويندوز والمتصفح)</sub>: اختر حكمًا، وحدّد ما قبله وما بعده من حروف وحركات،
+  فتظهر مواضعه في القرآن كله.
 - **التفسير والإعراب** والبحث في القرآن.
 
 ### 🎧 استمع وتابع
 
-- **الاستماع** إلى السورة أو الآية أو الكلمة أو الموضع نفسه، مع التكرار: ١٧ تلاوة لـ١٣ قارئًا، والحصري افتراضيًّا.
-  وتظهر أحكام الكلمة المتلوّة على حروفها أثناء الاستماع.
+- **النجمة في الشريط السفلي** تفتح الطرق الثلاثة: **تابِع · استمع · سمِّع**.
+- **الاستماع** إلى الآية، أو الصفحة، أو إلى آخر السورة، أو السورة كاملة، أو الجزء، أو من آية إلى آية — وإلى الكلمة
+  أو الموضع نفسه. السرعة من ٠٫٥ إلى ١٫٧٥، مع تكرار كل آية وتكرار المقطع كله. ١٧ تلاوة لـ١٣ قارئًا، والحصري
+  افتراضيًّا. وتظهر أحكام الكلمة المتلوّة على حروفها أثناء الاستماع.
 - **«تابِع تلاوتي»:** اقرأ من حفظك أو من المصحف، من أي سورة. يجد التطبيق موضعك بعد كلمات قليلة، ويُبرز الكلمة
   التي تقرؤها، ويمرّر النص معك. **الصوت لا يغادر جهازك:** يُعالَج دون إنترنت، ولا يُحفظ ولا يُرسَل.
   <sub>المتابعة تتبّع الموضع فقط، ولا تحكم على التجويد.</sub>
+- **التسميع:** يُخفى النص كله، فتقرأ من حفظك من أول السورة أو من موضعك، ولا يظهر إلا ما قرأتَه. الكلمة المتروكة تبقى
+  مخفية ومعلَّمة، والخطأ في حرف أو حركة يُلوَّن في كلمته ويُذكر في النتيجة، و«أظهر الكلمة التالية» عند الحاجة.
+
+### 👄 مختبر النطق <sub>(ويندوز والمتصفح)</sub>
+
+- رأس ثلاثي الأبعاد يُريك **مخرج كل حرف** وحركة اللسان والشفتين والحلق خطوةً خطوة، مع **الصفات** ومصدرها.
+- من أي كلمة في المصحف إلى نطق حرفها، والمقارنة بين حرفين جنبًا إلى جنب، ومقدار المدّ كما يقتضيه الموضع.
+- <sub>معاينة تطويرية لم يراجعها أهل العلم بعدُ.</sub>
 
 ### 🌙 احفظ وواظب
 
@@ -76,13 +101,19 @@
 - **القبلة:** الاتجاه بدقة من موقعك، مع البوصلة على الجوال. يُحسب على جهازك، ولا يُحفظ الموقع ولا يُرسَل.
 
 **وللجميع:** القرآن كاملًا دون إنترنت (الصوت وحده يُحمَّل عند التشغيل) · الوضع الداكن أو الفاتح · العربية وEnglish
-وDeutsch · شريط كبير ثابت في تطبيق أندرويد يناسب كبار السن · **مجاني، بلا إعلانات ولا تتبّع.**
+وDeutsch · تصميم جديد بحركة هادئة (تقلّ إن طلب الجهاز ذلك) · شريط كبير ثابت في تطبيق أندرويد يناسب كبار السن ·
+**مجاني، بلا إعلانات ولا تتبّع.**
 
 </div>
 
 <p align="center">
   <img src="screenshots/desktop.png" alt="على الحاسوب: النص وشرح الكلمة جنبًا إلى جنب" width="100%"><br>
   <sub>على الحاسوب: النص وشرح الكلمة جنبًا إلى جنب</sub>
+</p>
+
+<p align="center">
+  <img src="screenshots/studio.png" alt="مختبر النطق: مخرج القاف ثلاثي الأبعاد" width="100%"><br>
+  <sub>مختبر النطق: مخرج القاف ثلاثي الأبعاد</sub>
 </p>
 
 <div dir="rtl" lang="ar">
@@ -117,16 +148,25 @@ follow you. The name comes from the hadith *“Beautify the Qur'an with your voi
 
 - **Read & understand:** seven colour families and signs on the letters, in pause and in continuous reading ·
   *“Why here?”* for every place · highlight chosen rules and step from place to place · varied examples for each
-  rule and all its places in a surah, a juzʾ or the whole Qur'an · tafsir, grammar (iʿrāb) and search.
-- **Listen & recite:** 17 recordings by 13 reciters (al-Ḥuṣarī by default) for a surah, an ayah, a word or a single
-  place, with repeat · *Follow my recitation:* recite from memory or from the text, from any surah; the app finds
-  your place and highlights the word you are at. The audio never leaves your device. It follows your place and
-  does not judge your tajwīd.
+  rule and all its places in a surah, a juzʾ or the whole Qur'an · *tajwīd analysis of the ayah* (the place, the rule,
+  special cases, stopping and reading on, pronunciation, the rule tree; simple, detailed or advanced) · *advanced tajwīd
+  search* (Windows and browser): a rule with the letters and vowels before and after it, across the whole Qur'an · tafsir, grammar (iʿrāb) and
+  search.
+- **Listen & recite:** the star in the bottom bar opens three ways — *Follow · Listen · Recite from memory* · 17
+  recordings by 13 reciters (al-Ḥuṣarī by default) for an ayah, a page, to the end of the surah, the whole surah, a juzʾ
+  or any range, a word or a single place; speed 0.5–1.75×, repeat each ayah and the whole passage · *Follow my
+  recitation:* recite from memory or from the text, from any surah; the app finds your place and highlights the word you
+  are at. The audio never leaves your device. It follows your place and does not judge your tajwīd · *Recite from
+  memory (tasmīʿ):* the text is hidden and only what you recite appears; a word left out stays hidden and is marked, a
+  wrong letter or vowel is coloured in its word and named in the result.
+- **Articulation studio** (Windows and browser): a 3D head shows where each letter is articulated and how tongue, lips
+  and throat move, step by step, with its characteristics (ṣifāt) and their source; from any word of the Qur'an to its
+  letter, two letters side by side. A development preview, not yet reviewed by scholars.
 - **Memorise & keep going:** a daily hifz plan with new pages and review, and a reminder · bookmarks and
   “continue reading” · sync between your devices with a sync key alone, no email, no name · Qibla direction, computed on
   your device.
-- The whole Qur'an works offline (only the audio is loaded when played) · dark or light · Arabic, English,
-  German · **free, no ads, no tracking.**
+- The whole Qur'an works offline (only the audio is loaded when played) · dark or light · a new design with calm
+  motion (less when the device asks for it) · Arabic, English, German · **free, no ads, no tracking.**
 
 | Device | Download |
 |---|---|
@@ -151,17 +191,27 @@ euren Stimmen.“*
 
 - **Lesen & verstehen:** sieben Farbfamilien und Zeichen auf den Buchstaben, beim Anhalten und im Fluss ·
   *„Warum hier?“* zu jeder Stelle · gewählte Regeln hervorheben und von Stelle zu Stelle springen · Beispiele zu
-  jeder Regel und alle ihre Stellen in einer Sure, einem Juzʾ oder im ganzen Qur'an · Tafsīr, Grammatik (Iʿrāb) und
-  Suche.
-- **Anhören & rezitieren:** 17 Aufnahmen von 13 Rezitatoren (al-Ḥuṣarī als Standard) für Sure, Āya, Wort oder
-  einzelne Stelle, mit Wiederholung · *Rezitation verfolgen:* aus dem Gedächtnis oder vom Text, aus jeder Sure.
-  Die App findet die Stelle und markiert das gerade gelesene Wort. Der Ton verlässt das Gerät nie. Die App verfolgt
-  nur die Stelle und bewertet kein Tajwīd.
+  jeder Regel und alle ihre Stellen in einer Sure, einem Juzʾ oder im ganzen Qur'an · *Tajwīd-Analyse der Āya*
+  (die Stelle, die Regel, Sonderfälle, Anhalten und Weiterlesen, Aussprache, Regelbaum; einfach, ausführlich oder
+  fortgeschritten) · *erweiterte Tajwīd-Suche* (Windows und Browser): eine Regel mit den Buchstaben und Vokalen davor und danach, im ganzen
+  Qur'an · Tafsīr, Grammatik (Iʿrāb) und Suche.
+- **Anhören & rezitieren:** der Stern in der unteren Leiste öffnet drei Wege — *Folgen · Anhören · Aufsagen* · 17
+  Aufnahmen von 13 Rezitatoren (al-Ḥuṣarī als Standard) für eine Āya, eine Seite, bis zum Surenende, die ganze Sure,
+  einen Juzʾ, einen beliebigen Bereich, ein Wort oder eine einzelne Stelle; Tempo 0,5–1,75×, jede Āya und den ganzen
+  Abschnitt wiederholen · *Rezitation verfolgen:* aus dem Gedächtnis oder vom Text, aus jeder Sure. Die App findet die
+  Stelle und markiert das gerade gelesene Wort. Der Ton verlässt das Gerät nie. Die App verfolgt nur die Stelle und
+  bewertet kein Tajwīd · *Aufsagen (Tasmīʿ):* der Text ist verdeckt, nur das Rezitierte erscheint; ein ausgelassenes
+  Wort bleibt verdeckt und wird markiert, ein falscher Buchstabe oder Vokal wird im Wort gefärbt und im Ergebnis genannt.
+- **Artikulationsstudio** (Windows und Browser): ein 3D-Kopf zeigt, wo jeder Buchstabe gebildet wird und wie sich
+  Zunge, Lippen und Rachen bewegen, Schritt für Schritt, mit den Eigenschaften (Ṣifāt) und ihrer Quelle; von jedem Wort
+  des Qur'an zu seinem Buchstaben, zwei Buchstaben nebeneinander. Eine Entwicklungsvorschau, noch nicht von Gelehrten
+  geprüft.
 - **Auswendig lernen & dranbleiben:** täglicher Ḥifẓ-Plan mit neuen Seiten und Wiederholung, mit Erinnerung ·
   Lesezeichen und „Weiterlesen“ · Abgleich zwischen eigenen Geräten allein per Sync-Schlüssel, ohne E-Mail und Namen ·
   Qibla-Richtung, auf dem Gerät berechnet.
-- Der ganze Qur'an funktioniert offline (nur der Ton wird beim Abspielen geladen) · dunkel oder hell · Arabisch,
-  Englisch, Deutsch · **kostenlos, ohne Werbung, ohne Tracking.**
+- Der ganze Qur'an funktioniert offline (nur der Ton wird beim Abspielen geladen) · dunkel oder hell · neues Design
+  mit ruhiger Bewegung (weniger, wenn das Gerät es verlangt) · Arabisch, Englisch, Deutsch · **kostenlos, ohne Werbung,
+  ohne Tracking.**
 
 | Gerät | Download |
 |---|---|
